@@ -7,8 +7,10 @@ canvas_width="${NUVIO_WIDTH:-1280}"
 canvas_height="${NUVIO_HEIGHT:-720}"
 logo_width="${NUVIO_LOGO_WIDTH:-576}"
 logo_height="${NUVIO_LOGO_HEIGHT:-288}"
-background="${NUVIO_BACKGROUND:-black}"
+background="${NUVIO_BACKGROUND:-#1C1C1E}"
 foreground="${NUVIO_FOREGROUND:-white}"
+border="${NUVIO_BORDER:-#3A3A3C}"
+border_width="${NUVIO_BORDER_WIDTH:-7}"
 mode="${NUVIO_MODE:-monochrome}"
 
 if ! command -v magick >/dev/null 2>&1; then
@@ -46,6 +48,10 @@ while IFS= read -r -d '' source_file; do
     -gravity center \
     -background "$background" \
     -extent "${canvas_width}x${canvas_height}" \
+    -fill none \
+    -stroke "$border" \
+    -strokewidth "$border_width" \
+    -draw "roundrectangle 8,8 $((canvas_width - 9)),$((canvas_height - 9)) 42,42" \
     -strip \
     "$destination"
 

@@ -4,7 +4,8 @@ The generated files in `nuvio/media` are 1280×720 collection cards designed for
 
 Each card uses:
 
-- a black background;
+- a charcoal `#1C1C1E` background that remains visible on pure-black interfaces;
+- a subtle `#3A3A3C` inset border;
 - a white, centered logo;
 - a maximum logo area of 576×288 (45% × 40% of the canvas);
 - the same filename as its source in `misc/media`.
@@ -27,6 +28,13 @@ To rebuild with original brand colors:
 
 ```bash
 NUVIO_MODE=color ./utilities/generate-nuvio-cards.sh
+```
+
+Override the tile palette:
+
+```bash
+NUVIO_BACKGROUND='#242426' NUVIO_BORDER='#48484A' \
+  ./utilities/generate-nuvio-cards.sh
 ```
 
 The safe area is configurable:
