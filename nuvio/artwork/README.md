@@ -5,7 +5,7 @@ This folder contains artwork beyond the 1280×720 cover cards.
 ## Structure
 
 - `streaming-services/` — Netflix, Apple TV+, Hulu, Disney+, Max, Prime Video, Paramount+, and Peacock
-- `tv-discovery/` — Recently Released, Trending TV, New & Popular, and Popular TV
+- `tv-discovery/` — Trending TV, Recently Aired, Recently Released, and New & Popular
 - `movie-discovery/` — Recently Released, Trending Movies, New & Popular, and Popular Movies
 
 Each folder can contain:
