@@ -1,0 +1,458 @@
+[
+  {
+    "id": "collection-9313cfe8",
+    "title": "Streaming Services",
+    "folders": [
+      {
+        "id": "folder-c66705f6",
+        "title": "Netflix",
+        "sources": [
+          {
+            "title": "Netflix",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 213,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/netflix/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/netflix.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/netflix/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-1b463221",
+        "title": "Apple",
+        "sources": [
+          {
+            "title": "Apple",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 2552,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/apple-tv-plus/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/apple-tv-plus.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/apple-tv-plus/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-2475db72",
+        "title": "Hulu",
+        "sources": [
+          {
+            "title": "Hulu",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 453,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/hulu/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/hulu.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/hulu/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-87fdd531",
+        "title": "Disney+",
+        "sources": [
+          {
+            "title": "Disney+",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 2739,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "Disney+",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/disney-plus/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/disney-plus.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/disney-plus/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-5ac2d90e",
+        "title": "Max",
+        "sources": [
+          {
+            "title": "Max",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 3186,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/max/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/max.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/max/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-a47e631b",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "title": "Prime Video",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 1024,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/prime-video/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/prime-video-hz.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/prime-video/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-c9037f24",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "title": "Paramount+",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 4330,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/paramount-plus/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/paramount-plus.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/paramount-plus/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-e18b74a6",
+        "title": "Peacock",
+        "sources": [
+          {
+            "title": "Peacock",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": 3353,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/peacock/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/media/peacock.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/peacock/hero-backdrop.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/streaming-services/collection/backdrop.jpg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-7d42af91",
+    "title": "Trending & Popular TV",
+    "folders": [
+      {
+        "id": "folder-1f8c3d72",
+        "title": "Trending TV",
+        "sources": [
+          {
+            "title": "Trending TV",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "⭐",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/trending-tv/title-logo-star.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/trending-tv-star.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/trending-tv/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-92c4e7a1",
+        "title": "Recently Aired",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "type": "series",
+            "catalogId": "new-and-returning-series",
+            "genre": null
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "📡",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/recently-aired/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/recently-aired.png",
+        "catalogSources": [
+          {
+            "addonId": "com.nuvio.tmdb.catalogs",
+            "type": "series",
+            "catalogId": "new-and-returning-series",
+            "genre": null
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/recently-aired/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-d47a905e",
+        "title": "Recently Released",
+        "sources": [
+          {
+            "title": "Recently Released TV",
+            "sortBy": "first_air_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🆕",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/recently-released/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/recently-released.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/recently-released/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-b29d61c4",
+        "title": "New & Popular",
+        "sources": [
+          {
+            "title": "New & Popular TV",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "voteCountGte": 10
+            },
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "✨",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/new-and-popular/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/new-and-popular.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/new-and-popular/hero-backdrop.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/tv-discovery/collection/backdrop.jpg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-42b7e91c",
+    "title": "Trending & Popular Movies",
+    "folders": [
+      {
+        "id": "folder-3c91a7e5",
+        "title": "Recently Released",
+        "sources": [
+          {
+            "title": "Recently Released Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "voteCountGte": 5
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/recently-released-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/recently-released/title-logo.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/recently-released/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-75df2b48",
+        "title": "Trending Movies",
+        "sources": [
+          {
+            "title": "Trending Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🔥",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/trending-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/trending-movies/title-logo.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/trending-movies/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-a86e04d3",
+        "title": "New & Popular",
+        "sources": [
+          {
+            "title": "New & Popular Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "year": 2026,
+              "voteCountGte": 10
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "✨",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/new-and-popular-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/new-and-popular/title-logo.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/new-and-popular/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-d12c69f7",
+        "title": "Popular Movies",
+        "sources": [
+          {
+            "title": "Popular Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "⭐",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/popular-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/popular-movies/title-logo.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/popular-movies/hero-backdrop.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": false,
+    "backdropImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/collection/backdrop.jpg"
+  }
+]

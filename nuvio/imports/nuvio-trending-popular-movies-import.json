@@ -1,0 +1,123 @@
+[
+  {
+    "id": "collection-42b7e91c",
+    "title": "Trending & Popular Movies",
+    "folders": [
+      {
+        "id": "folder-3c91a7e5",
+        "title": "Recently Released",
+        "sources": [
+          {
+            "title": "Recently Released Movies",
+            "sortBy": "primary_release_date.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 5,
+              "year": 2026
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/recently-released/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/recently-released-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/recently-released/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-75df2b48",
+        "title": "Trending Movies",
+        "sources": [
+          {
+            "title": "Trending Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 20
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🔥",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/trending-movies/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/trending-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/trending-movies/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-a86e04d3",
+        "title": "New & Popular",
+        "sources": [
+          {
+            "title": "New & Popular Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 10,
+              "year": 2026
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "✨",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/new-and-popular/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/new-and-popular-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/new-and-popular/hero-backdrop.jpg"
+      },
+      {
+        "id": "folder-d12c69f7",
+        "title": "Popular Movies",
+        "sources": [
+          {
+            "title": "Popular Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "voteCountGte": 100
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "⭐",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/popular-movies/title-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/discovery/movies/popular-movies.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/popular-movies/hero-backdrop.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://raw.githubusercontent.com/lmaung/tv-logos/nuvio-collections/nuvio/artwork/movie-discovery/collection/backdrop.jpg",
+    "focusGlowEnabled": false
+  }
+]
